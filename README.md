@@ -1,7 +1,7 @@
 vanillaJs
 =========
 
-GitHub Mirror of the Vanilla JS Framework
+GitHub Mirror of the Vanilla JS Framework. For more info see http://vanilla-js.com/
 
 How to Build
 ============
