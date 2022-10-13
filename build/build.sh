@@ -2,7 +2,7 @@
 
 # Builder for the vanilla.js framework
 
-DEST=../dist
+export DEST=../dist
 
 mkdir -p $DEST
 touch $DEST/vanilla.js
